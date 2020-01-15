@@ -1,7 +1,10 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <router-view/>
+    <!-- <img src="./" alt=""> -->
+    <h1>ToDo Managemant.</h1> <!-- add-->
+    <hr />
+    <router-view></router-view> <!-- replace-->
   </div>
 </template>
 
